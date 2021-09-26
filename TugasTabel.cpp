@@ -53,10 +53,7 @@ int main(){
 
     cout << setfill('=') << setw(strip) << "=" << endl;
 
-    cout<< namab << endl
-        << nimb << endl
-        << plugb << endl
-        << 1/2*namab;
+  
 
 return 0;
 }
